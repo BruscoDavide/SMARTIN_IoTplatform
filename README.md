@@ -1,2 +1,2 @@
 # SMARTIN_IoTplatform
-Room Monitoring IoT platfomr
+Room Monitoring IoT platform
